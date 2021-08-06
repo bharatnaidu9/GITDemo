@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-23T13:56:13 IST" name="Suite" finished-at="2021-07-23T13:56:13 IST" duration-ms="95">
+    <groups>
+    </groups>
+    <test started-at="2021-07-23T13:56:13 IST" name="Test" finished-at="2021-07-23T13:56:13 IST" duration-ms="95">
+      <class name="zfinalmaven.AppiumTest">
+        <test-method signature="azure1()[pri:0, instance:zfinalmaven.AppiumTest@6156496]" started-at="2021-07-23T13:56:13 IST" name="azure1" finished-at="2021-07-23T13:56:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- azure1 -->
+        <test-method signature="azure11()[pri:0, instance:zfinalmaven.AppiumTest@6156496]" started-at="2021-07-23T13:56:13 IST" name="azure11" finished-at="2021-07-23T13:56:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- azure11 -->
+      </class> <!-- zfinalmaven.AppiumTest -->
+      <class name="zfinalmaven.APITest">
+        <test-method signature="azure()[pri:0, instance:zfinalmaven.APITest@7920ba90]" started-at="2021-07-23T13:56:13 IST" name="azure" finished-at="2021-07-23T13:56:13 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- azure -->
+        <test-method signature="azure01()[pri:0, instance:zfinalmaven.APITest@7920ba90]" started-at="2021-07-23T13:56:13 IST" name="azure01" finished-at="2021-07-23T13:56:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- azure01 -->
+      </class> <!-- zfinalmaven.APITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
